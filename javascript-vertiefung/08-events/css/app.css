@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+}
+
+body, div {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#grand-parent {
+    background: blue;
+    width: 500px;
+    height: 500px;
+}
+
+#parent {
+    background: red;
+    width: 300px;
+    height: 300px;
+}
+
+#child {
+    background: yellow;
+    width: 100px;
+    height: 100px;
+}

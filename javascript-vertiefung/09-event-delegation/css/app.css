@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+td {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.highlighted-yellow {
+    background-color: rgba(255, 255, 0, 0.4);
+}
+
+.highlighted-blue {
+    background-color: rgba(0, 0, 255, 0.4);
+}
+
+.highlighted-green {
+    background-color: rgba(0, 255, 0, 0.4);
+}

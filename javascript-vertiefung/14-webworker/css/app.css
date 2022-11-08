@@ -1,0 +1,16 @@
+#container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50vh;
+}
+
+body {
+    height: 100vh;
+}
+
+#message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
